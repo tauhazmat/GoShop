@@ -1,0 +1,29 @@
+.story-div {
+    /* border: 1px solid red; */
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.story-heading {
+    font-size: 60px;
+    color: #24262f;
+    position: relative;
+    top: -20px;
+    font-family: "Poppins", sans-serif;
+    width: 300px;
+}
+
+.story-p {
+    color: #4e525a;
+    font-size: 18px;
+    width: 1100px;
+    font-weight: 500;
+    text-wrap: wrap;
+    font-family: "Poppins", sans-serif;
+    width: 450px;
+}
+
+
+.review-div{
+    padding-bottom: 100px;
+}

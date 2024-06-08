@@ -1,0 +1,42 @@
+.contact-div{
+    margin-top: 150px;
+    margin-left: 30px;
+    padding-bottom: 100px;
+}
+.contact-heading{
+    font-size: 60px;
+    font-weight: 750;
+    font-family: "Poppins", sans-serif;
+}
+.contact-p{
+    color: #4e525a;
+    font-size: 20px;
+    width: 500px;
+    margin-top: 10px;
+}
+.contact:hover{
+    color: #c27a7e;
+}
+.contact-email{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px;
+    color: #4e525a;
+    margin-top: 10px;
+    position: relative;
+    left: -10px;
+    text-decoration: 1px underline white;
+}
+.contact-email:hover{
+    color: #c27a7e;
+}
+.contact-icons{
+    font-size: 25px;
+    border: 2px dashed #c27a7e;
+    border-radius: 50px;
+    padding: 10px;
+}
+.contact-icons:hover{
+    border: 2px dashed #c27a7e;
+}
